@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thomas20201980.github.io/CATA/sitemap.xml
